@@ -19,7 +19,7 @@ features:
   - title: RADAR (Rapat Asyik Diskusi dan Analisis Review)
     details: Program evaluasi pengurus dilaksanakan 1x sebulan untuk meninjau kinerja dan perkembangan kegiatan organisasi, serta mendiskusikan strategi peningkatan efektivitas himpunan.
 
-  - title: MELANJUTKAN STATGEN
+  - title: STATGEN (Statistics Generation)
     details: Program ini memberikan bimbingan statistik pada 2-4 mata kuliah per semester, membantu mahasiswa memahami materi dengan lebih mendalam dan mempersiapkan diri menghadapi ujian serta tugas akademik.
 
   - title: GEMAS (Gerakan Mempersembahkan Inspirasi dan Apresiasi)
@@ -34,9 +34,9 @@ features:
   - title: TAKTIK (Temu Aksi Kreatif untuk Tim dan Kompetisi)
     details: Program ini dirancang untuk meningkatkan kreativitas dan kompetisi di antara mahasiswa melalui berbagai kegiatan yang melibatkan kolaborasi dan inovasi.
 
-footer: MIT Licensed | Copyright © 2024-present Himpunan Mahasiswa Universitas Terbuka
+footer: "MIT Licensed | Copyright © 2024-present Himpunan Mahasiswa Statistika Universitas Terbuka"
 ---
 
-This is the content of home page. Check [Home Page Docs][default-theme-home] for more details.
+<!-- This is the content of home page. Check [Home Page Docs][default-theme-home] for more details. -->
 
-[default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page
+<!-- [default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page -->
