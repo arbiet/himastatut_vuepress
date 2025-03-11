@@ -5,6 +5,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 export default defineUserConfig({
   lang: 'id',
   dest: '../dist',
+  base: '/',
   title: 'Himastat UT Docs',
   description: 'Himpunan Mahasiswa Statistika Universitas Terbuka',
   head: [
@@ -18,7 +19,7 @@ export default defineUserConfig({
   ],
 
   theme: defaultTheme({
-    logo: '/images/logo.png',
+    logo: 'public/images/logo.png',
 
     navbar: [
       // NavbarLink for Home
