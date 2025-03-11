@@ -5,7 +5,11 @@
   "license": "MIT",
   "repository": "https://github.com/arbiet/himastatut_vuepress.git",
   "type": "module",
-  "author": "Himastat-UT Team | Ikimukti",
+  "author": {
+    "name": "Himastat-UT Team | Ikimukti",
+    "email": "dev@himastatut.my.id",
+    "url": "https://himastatut.my.id"
+  },
   "scripts": {
     "docs:build": "vuepress build docs",
     "docs:clean-dev": "vuepress dev docs --clean-cache",
