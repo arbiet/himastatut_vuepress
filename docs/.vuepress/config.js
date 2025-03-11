@@ -4,7 +4,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
   lang: 'id',
-
+  dest: '../dist',
   title: 'Himastat UT Docs',
   description: 'Himpunan Mahasiswa Statistika Universitas Terbuka',
   head: [
