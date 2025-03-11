@@ -1,7 +1,7 @@
 ---
 home: true
 title: Home
-heroImage: public/images/logo.png
+heroImage: /images/logo.png
 tagline: Cerdas Bersama Himastat UT
 actions:
   - text: Statistics Generation

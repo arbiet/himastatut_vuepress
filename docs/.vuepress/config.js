@@ -19,7 +19,7 @@ export default defineUserConfig({
   ],
 
   theme: defaultTheme({
-    logo: '/public/images/logo.png',
+    logo: '/images/logo.png',
 
     navbar: [
       // NavbarLink for Home
