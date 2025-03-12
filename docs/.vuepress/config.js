@@ -154,6 +154,19 @@ export default defineUserConfig({
         rel: false,
       },
     ],
+    sidebar: {
+      '/statgen/': [
+        {
+          text: 'Biologi Umum',
+          children: [
+            '/docs/statgen/BIOL4110.md',
+            '/docs/statgen/konsep-dasar-biologi.md',
+            '/docs/statgen/sel-dan-organisasi.md',
+            '/docs/statgen/genetika.md'
+          ]
+        }
+      ]
+    }
   }),
 
   bundler: viteBundler(),
